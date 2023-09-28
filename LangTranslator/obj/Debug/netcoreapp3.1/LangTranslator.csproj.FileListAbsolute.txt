@@ -1,0 +1,16 @@
+C:\Users\asl11\source\repos\LangTranslator\LangTranslator\bin\Debug\netcoreapp3.1\LangTranslator.exe
+C:\Users\asl11\source\repos\LangTranslator\LangTranslator\bin\Debug\netcoreapp3.1\LangTranslator.deps.json
+C:\Users\asl11\source\repos\LangTranslator\LangTranslator\bin\Debug\netcoreapp3.1\LangTranslator.runtimeconfig.json
+C:\Users\asl11\source\repos\LangTranslator\LangTranslator\bin\Debug\netcoreapp3.1\LangTranslator.runtimeconfig.dev.json
+C:\Users\asl11\source\repos\LangTranslator\LangTranslator\bin\Debug\netcoreapp3.1\LangTranslator.dll
+C:\Users\asl11\source\repos\LangTranslator\LangTranslator\bin\Debug\netcoreapp3.1\LangTranslator.pdb
+C:\Users\asl11\source\repos\LangTranslator\LangTranslator\obj\Debug\netcoreapp3.1\LangTranslator.csproj.AssemblyReference.cache
+C:\Users\asl11\source\repos\LangTranslator\LangTranslator\obj\Debug\netcoreapp3.1\LangTranslator.Form1.resources
+C:\Users\asl11\source\repos\LangTranslator\LangTranslator\obj\Debug\netcoreapp3.1\LangTranslator.csproj.GenerateResource.cache
+C:\Users\asl11\source\repos\LangTranslator\LangTranslator\obj\Debug\netcoreapp3.1\LangTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asl11\source\repos\LangTranslator\LangTranslator\obj\Debug\netcoreapp3.1\LangTranslator.AssemblyInfoInputs.cache
+C:\Users\asl11\source\repos\LangTranslator\LangTranslator\obj\Debug\netcoreapp3.1\LangTranslator.AssemblyInfo.cs
+C:\Users\asl11\source\repos\LangTranslator\LangTranslator\obj\Debug\netcoreapp3.1\LangTranslator.csproj.CoreCompileInputs.cache
+C:\Users\asl11\source\repos\LangTranslator\LangTranslator\obj\Debug\netcoreapp3.1\LangTranslator.dll
+C:\Users\asl11\source\repos\LangTranslator\LangTranslator\obj\Debug\netcoreapp3.1\LangTranslator.pdb
+C:\Users\asl11\source\repos\LangTranslator\LangTranslator\obj\Debug\netcoreapp3.1\LangTranslator.genruntimeconfig.cache

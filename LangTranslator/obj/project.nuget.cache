@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oC90Nxi5uN3niz9C2CRlmIuwjkKANO8qlxh8lwewOXbpX8oOYmBgOIjSQezIFtJG4n5plh13zfI7614yIIIB7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asl11\\source\\repos\\LangTranslator\\LangTranslator\\LangTranslator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asl11\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
